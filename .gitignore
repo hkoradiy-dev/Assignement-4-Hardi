@@ -20,3 +20,6 @@ __pycache__/
 # Operating system
 .DS_Store
 Thumbs.db
+
+# Ignore all generated Spark output files
+shared-folder/output/
